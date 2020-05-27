@@ -1,4 +1,4 @@
-##Clinical trial on cancer patients##
+Clinical trial on cancer patients
 
 Data is collected from clinicaltrial.org. 
 
